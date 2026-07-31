@@ -15,12 +15,6 @@ and an MCP server — so an agent in your editor can generate and run tests
 through the protocol.
 
 `npm i @ghostly-io/cli`
-
-### [blackbox-doc-bughunter](https://github.com/Meza-dev/blackbox-doc-bughunter)
-
-Reads legacy or undocumented code and produces technical documentation with
-Mermaid diagrams, plus a bug and vulnerability audit.
-
 ---
 
 `TypeScript` `Node` `NestJS` `React` `Go` `Docker` `Kubernetes` `Playwright`
