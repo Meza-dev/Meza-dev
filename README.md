@@ -25,6 +25,8 @@ Mermaid diagrams, plus a bug and vulnerability audit.
 
 `TypeScript` `Node` `NestJS` `React` `Go` `Docker` `Kubernetes` `Playwright`
 
+`MCP` `AI Agents` `LLM Integration` `Agentic Testing` `Persistent Memory`
+
 Currently into agent infrastructure, MCP, and persistent memory for agents.
 
 [LinkedIn](https://www.linkedin.com/in/christian-meza1/) · [ghostly.site](https://www.ghostly.site/) · [npm](https://www.npmjs.com/package/@ghostly-io/cli) · mezajonas747@gmail.com
