@@ -1,16 +1,30 @@
-## Hi there 👋
+## Christian Meza
 
-<!--
-**Meza-dev/Meza-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer in Buenos Aires. I take products from an empty repo to
+production — schema, API, interface, infra, deploys — and I build tooling for
+AI agents.
 
-Here are some ideas to get you started:
+Most of my work is private — enterprise products across fintech, HR and
+logistics, built end to end and running in production. What's public:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Ghostly](https://www.ghostly.site/)
+
+Write your end-to-end tests in one sentence. Ghostly runs them and self-heals
+broken selectors. Local-first, built on Playwright, shipped on npm with a CLI
+and an MCP server — so an agent in your editor can generate and run tests
+through the protocol.
+
+`npm i @ghostly-io/cli`
+
+### [blackbox-doc-bughunter](https://github.com/Meza-dev/blackbox-doc-bughunter)
+
+Reads legacy or undocumented code and produces technical documentation with
+Mermaid diagrams, plus a bug and vulnerability audit.
+
+---
+
+`TypeScript` `Node` `NestJS` `React` `Go` `Docker` `Kubernetes` `Playwright`
+
+Currently into agent infrastructure, MCP, and persistent memory for agents.
+
+[LinkedIn](https://www.linkedin.com/in/christian-meza1/) · [ghostly.site](https://www.ghostly.site/) · [npm](https://www.npmjs.com/package/@ghostly-io/cli) · mezajonas747@gmail.com
